@@ -11,7 +11,7 @@ Harness Engineering, Developer Tools (APIs, CLIs and DSLs), Knowledge Bases, Pro
 (tba)
 
 ## donations
-As most of the work I do nowadays is personal projects 
+As most of the work I do nowadays consists of personal projects, if you liked my work, please throw a dime in the bucket. 🫡
 ```
 SOL: 4azo4gcgGBEy42dJTW4ZGF3MGDSCjW8Kgjyz8EB6eWA6
 ```
